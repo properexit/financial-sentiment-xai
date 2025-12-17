@@ -1,0 +1,30 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+venv_xai/
+.env/
+
+# macOS system files
+.DS_Store
+
+# PyTorch / model artifacts
+data/processed/model.pt
+
+# HuggingFace cache 
+.cache/
+.huggingface/
+
+# Jupyter / experiments
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Streamlit
+.streamlit/
+
+# VS Code
+.vscode/
