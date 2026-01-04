@@ -10,7 +10,7 @@ correctness, transparency, and debuggability.
 
 ---
 
-## ✨ Key Features
+## Key Features
 
 - Financial sentiment classification (Positive / Neutral / Negative)
 - Fine-tuned DistilBERT model
@@ -22,7 +22,7 @@ correctness, transparency, and debuggability.
 
 ---
 
-## 🏗️ Architecture Overview
+## Architecture Overview
 
 ```mermaid
 flowchart TD
@@ -44,7 +44,7 @@ flowchart TD
 
 ---
 
-## 🧪 Example Predictions
+## Example Predictions
 
 ### Positive Sentiment
 
@@ -84,7 +84,7 @@ increase, costs
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 ```bash
 python -m venv venv
@@ -96,7 +96,7 @@ streamlit run app/ui.py
 
 ---
 
-## 🎯 Design Philosophy
+## Design Philosophy
 
 - Interpretability is a first-class requirement
 - Prefer simple, faithful explanations over complex heuristics
@@ -106,6 +106,6 @@ streamlit run app/ui.py
 
 ---
 
-## 📄 License
+## License
 
 MIT
